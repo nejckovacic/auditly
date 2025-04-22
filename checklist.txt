@@ -1,152 +1,63 @@
-General
-Sticky navigation with product name, product image, product page sections, availability, old price, new price, discount and CTA that hides when the user is scrolling down but reappears when the user scrolls up
-Product page has an option for potential customers to ask questions (e.g. live chat, phone number)
-Product page contains breadcrumbs (not applicable to single product stores and direct-response landing pages)
-A customer can give their email address if the product is currently not available; they will be notified when it becomes available
-Clicking the back button always takes the user back to the page the user came from
-Product overview (above the CTA area)
-Product titles are descriptive
-The main product title is visually prominent compared to other content
-The product title is under 65 characters so it appears fully in Google search results
-The product subtitle highlight key product benefit and contain power words, e.g. effortless, incredible, absolute, unique, secret, now, new, exclusive, how to, why
-Product rating overviews are shown near product titles that are linked (with click & scroll) to product reviews (e.g. 4.6, Read 5 Reviews)
-A short list of other key benefits of the product is near the main title and linked to a detailed description (with green check arrows)
-Image gallery
-The main product photo is attractive
-The main product photo allows a user to zoom in easily (especially on mobile)
-There is a gallery with different product photos
-The product gallery shows thumbnails of other available images
-The product gallery contains product videos
-The product gallery contains arrows to navigate between images
-The product gallery supports swipe actions on mobile devices
-There are images for different product variants/sizes
-CTA area
-The main CTA is the most visible element on the product page and contains the "cart" icon
-Product variants are easily accessible on mobile and big enough with enough white space around to prevent misclicks
-The product variant selection is connected with the product gallery and shows images of chosen product variants
-A visible reminder is included to select size/color if a customer forgets and clicks "add to cart" too early
-Interactive selectors are used for product variants (the gallery image and the price are changed in real-time, without triggering a page reload)
-A size chart (or link that opens in a small popup and is easily closed on mobile) is provided near the size selections (for products with different sizes)
-Localized units for products are shown with different sizes/measurements (e.g. cm, inches, kg)
-Product descriptions mention the size of the model and the size of the shirt the model is wearing (only for apparel)
-Interactive selectors are used for quantity selection instead of dropdowns (the price and quantity are changed in real-time, without triggering a page reload)
-The CTA copy clearly explains what will happen when you click on it (e.g. Proceed to secure checkout)
-Clear feedback is provided once the product has been added to the cart (e.g. a number in the mini-cart widget increases)
-The main CTA change states once users add a product to the cart (e.g. "[check arrow] Product added to your cart" and after 2 seconds "Go to my shopping cart [right arrow]")
-The price of the product is prominent enough, especially if it's discounted
-The price of the product is placed near the main CTA
-The price of the product is localized
-The background color of the product's primary CTA differs from other elements (e.g. slightly grey)
-All additional charges that may apply are shown near the main CTA (e.g. additional shipping costs due to product size, VAT)
-If free shipping is offered, it's highlighted near the main CTA
-All shipping information is shown near the main CTA (delivery to shopper's location, shopper's country flag, cost, time)
-Availability of the product is shown near the main CTA (e.g. "In stock")
-The old price (with a strike-trough) is shown with the new price and how much shoppers will save (% or $) when the product is on sale
-Clear information is shown about returns, refunds and money-back guarantee
-Express payment options are shown and available that are commonly used (e.g. PayPal, Amazon, Google Pay, Apple Pay). Useful for direct-response landing pages
-There is an option for a payment with installments (e.g. Klarna, AfterPay; for expensive products only). Useful for direct-response landing pages that don't encourage the user to add other products to the cart
-Social proof
-Product page highlights logos of news sites/blogs/celebrities where the product/brand has had PR exposure (e.g. "Used by executives at Fortune 500" )
-Customer reviews are shown with a review title, customer photos of product, star rating, photo of reviewer, name and last name, "verified" buyer, occupation, and age
-Customer reviews visually stand out from other content (ideally on a slightly yellow background)
-Product page contains photos (with faces) of how (happy) customers are using the product
-Product overall star ratings are shown and can be filtered by the star rating
-Product page contains the number of customers this week/month/all-time (e.g. "19,222 products successfully shipped and delivered this month alone")
-Product page contains video testimonials
-Product page contains the number of Facebook and Twitter followers
-Conversion and AOV 'boosters'
-Clear quantity discounts are offered near the main CTA (1x $24.99/piece, ["Top choice" badge]; 2x 19,99€/piece, ["Recommended" badge]; 3x $17,49/piece, ["Best value" badge])
-Relevant cross-sell/up-sell products are offered
-Relevant bundle products are offered with prominent discounts
-Urgency triggers are used (e.g. "Today only", "Black Friday offer", "Free bonus", "If order is placed in the next 12 min, it will be shipped today") near the main CTA
-Scarcity triggers are used (e.g. "Only 3 products left") near the main CTA
-Customers are shown how many people have viewed and bought the product in the last 24 hours
-A store is giving away a small percentage of the profit to charity; and highlights this information
-The product page contains "Visitors who viewed this product also viewed..." where users are shown complementary OR/AND alternative products
-Product description
-The product description is easy to read (font size, contrast, single column, 75 characters per line, line-height 1.5, max. 4 lines long)
-Product information structure is easy to scan (grouped information, bullet points, important benefits highlighted)
-The sections of the page ("General", "Technical info") are grouped together in accordion (if they are longer) and scannable on mobile
-Section titles explain benefits (and not features) of the product
-Customers are shown all the things that are included in the product (ideally with an included photo)
-Product page contains customer FAQs (for each specific product as well as store-wide questions)
-The table of technical specifications is readable (different colors of lines, hover state of the line, not too far apart)
-Product page offers product comparisons
-Product description explains how to use the product in 3 easy steps
-Product page contains embedded reviews (or screenshots) from social networks (e.g. Facebook post, Messenger, Whatsapp, Tweet, Instagram post, Instagram PM, Viber, text message)
-General
-Sticky navigation with product name, product image, product page sections, availability, old price, new price, discount and CTA that hides when the user is scrolling down but reappears when the user scrolls up
-Product page has an option for potential customers to ask questions (e.g. live chat, phone number)
-Product page contains breadcrumbs (not applicable to single product stores and direct-response landing pages)
-A customer can give their email address if the product is currently not available; they will be notified when it becomes available
-Clicking the back button always takes the user back to the page the user came from
-Product overview (above the CTA area)
-Product titles are descriptive
-The main product title is visually prominent compared to other content
-The product title is under 65 characters so it appears fully in Google search results
-The product subtitle highlight key product benefit and contain power words, e.g. effortless, incredible, absolute, unique, secret, now, new, exclusive, how to, why
-Product rating overviews are shown near product titles that are linked (with click & scroll) to product reviews (e.g. 4.6, Read 5 Reviews)
-A short list of other key benefits of the product is near the main title and linked to a detailed description (with green check arrows)
-Image gallery
-The main product photo is attractive
-The main product photo allows a user to zoom in easily (especially on mobile)
-There is a gallery with different product photos
-The product gallery shows thumbnails of other available images
-The product gallery contains product videos
-The product gallery contains arrows to navigate between images
-The product gallery supports swipe actions on mobile devices
-There are images for different product variants/sizes
-CTA area
-The main CTA is the most visible element on the product page and contains the "cart" icon
-Product variants are easily accessible on mobile and big enough with enough white space around to prevent misclicks
-The product variant selection is connected with the product gallery and shows images of chosen product variants
-A visible reminder is included to select size/color if a customer forgets and clicks "add to cart" too early
-Interactive selectors are used for product variants (the gallery image and the price are changed in real-time, without triggering a page reload)
-A size chart (or link that opens in a small popup and is easily closed on mobile) is provided near the size selections (for products with different sizes)
-Localized units for products are shown with different sizes/measurements (e.g. cm, inches, kg)
-Product descriptions mention the size of the model and the size of the shirt the model is wearing (only for apparel)
-Interactive selectors are used for quantity selection instead of dropdowns (the price and quantity are changed in real-time, without triggering a page reload)
-The CTA copy clearly explains what will happen when you click on it (e.g. Proceed to secure checkout)
-Clear feedback is provided once the product has been added to the cart (e.g. a number in the mini-cart widget increases)
-The main CTA change states once users add a product to the cart (e.g. "[check arrow] Product added to your cart" and after 2 seconds "Go to my shopping cart [right arrow]")
-The price of the product is prominent enough, especially if it's discounted
-The price of the product is placed near the main CTA
-The price of the product is localized
-The background color of the product's primary CTA differs from other elements (e.g. slightly grey)
-All additional charges that may apply are shown near the main CTA (e.g. additional shipping costs due to product size, VAT)
-If free shipping is offered, it's highlighted near the main CTA
-All shipping information is shown near the main CTA (delivery to shopper's location, shopper's country flag, cost, time)
-Availability of the product is shown near the main CTA (e.g. "In stock")
-The old price (with a strike-trough) is shown with the new price and how much shoppers will save (% or $) when the product is on sale
-Clear information is shown about returns, refunds and money-back guarantee
-Express payment options are shown and available that are commonly used (e.g. PayPal, Amazon, Google Pay, Apple Pay). Useful for direct-response landing pages
-There is an option for a payment with installments (e.g. Klarna, AfterPay; for expensive products only). Useful for direct-response landing pages that don't encourage the user to add other products to the cart
-Social proof
-Product page highlights logos of news sites/blogs/celebrities where the product/brand has had PR exposure (e.g. "Used by executives at Fortune 500" )
-Customer reviews are shown with a review title, customer photos of product, star rating, photo of reviewer, name and last name, "verified" buyer, occupation, and age
-Customer reviews visually stand out from other content (ideally on a slightly yellow background)
-Product page contains photos (with faces) of how (happy) customers are using the product
-Product overall star ratings are shown and can be filtered by the star rating
-Product page contains the number of customers this week/month/all-time (e.g. "19,222 products successfully shipped and delivered this month alone")
-Product page contains video testimonials
-Product page contains the number of Facebook and Twitter followers
-Conversion and AOV 'boosters'
-Clear quantity discounts are offered near the main CTA (1x $24.99/piece, ["Top choice" badge]; 2x 19,99€/piece, ["Recommended" badge]; 3x $17,49/piece, ["Best value" badge])
-Relevant cross-sell/up-sell products are offered
-Relevant bundle products are offered with prominent discounts
-Urgency triggers are used (e.g. "Today only", "Black Friday offer", "Free bonus", "If order is placed in the next 12 min, it will be shipped today") near the main CTA
-Scarcity triggers are used (e.g. "Only 3 products left") near the main CTA
-Customers are shown how many people have viewed and bought the product in the last 24 hours
-A store is giving away a small percentage of the profit to charity; and highlights this information
-The product page contains "Visitors who viewed this product also viewed..." where users are shown complementary OR/AND alternative products
-Product description
-The product description is easy to read (font size, contrast, single column, 75 characters per line, line-height 1.5, max. 4 lines long)
-Product information structure is easy to scan (grouped information, bullet points, important benefits highlighted)
-The sections of the page ("General", "Technical info") are grouped together in accordion (if they are longer) and scannable on mobile
-Section titles explain benefits (and not features) of the product
-Customers are shown all the things that are included in the product (ideally with an included photo)
-Product page contains customer FAQs (for each specific product as well as store-wide questions)
-The table of technical specifications is readable (different colors of lines, hover state of the line, not too far apart)
-Product page offers product comparisons
-Product description explains how to use the product in 3 easy steps
-Product page contains embedded reviews (or screenshots) from social networks (e.g. Facebook post, Messenger, Whatsapp, Tweet, Instagram post, Instagram PM, Viber, text message)
+Verify the sticky navigation bar remains fixed at the top of the viewport and includes the product name, main product image, links to key page sections, availability status, original price, discounted price (with percentage or currency savings), and the primary CTA button; ensure the bar hides when scrolling down and reappears when scrolling up.  
+Confirm the product page provides a clear customer‐inquiry mechanism, such as a live chat widget or a prominently displayed phone number, so potential buyers can ask questions in real time.  
+Check that breadcrumb navigation is present (unless the store is single‐product or a direct‐response landing page), enabling users to trace their path back through category or search pages.  
+Ensure there is an email signup form on out‐of‐stock products so visitors can submit their address and receive automatic notifications when the item restocks.  
+Test that clicking the browser’s back button reliably returns users to the exact page they came from, preserving any filters or search parameters.  
+Verify that a concise product overview summary appears above the CTA area, giving a snapshot of the most important details before the call‑to‑action.  
+Confirm the main product title is descriptive—clearly stating the item’s key attributes—and is visually prominent compared to surrounding text.  
+Check the product title length is under 65 characters so it displays fully in Google search results without truncation.  
+Ensure the product subtitle highlights a key benefit using at least one “power word” (e.g. effortless, exclusive, new, secret, why) to grab attention.  
+Confirm that a product‐rating overview (e.g. “4.6 ★ – Read 5 Reviews”) is displayed near the main title and links to detailed customer reviews via click or scroll.  
+Verify a short, bullet‑style list of additional key benefits appears adjacent to the main title, with each item linked (e.g. via anchor) to its corresponding detailed section and visually marked (e.g. with green check icons).  
+Check that the main product photo is high‑quality and visually appealing, creating a strong first impression.  
+Ensure the main product image supports easy zooming—especially on mobile devices—so users can inspect details.  
+Confirm a dedicated image gallery exists showing multiple angles or variants of the product.  
+Verify the gallery displays clickable thumbnails of all available images beneath or beside the main photo.  
+Ensure the gallery includes product videos (e.g. embedded MP4 or YouTube/Vimeo).  
+Check for next/previous navigation arrows within the gallery to move between images without leaving the page.  
+On mobile, confirm the gallery supports swipe gestures to navigate through images.  
+Verify that variant‑specific images (e.g. different colors or sizes) appear automatically when users select a variant.  
+Ensure the main CTA button (“Add to Cart” or similar) is the most visually prominent element on the page and includes a cart icon.  
+Confirm that variant selection controls (color swatches, size buttons) are large enough with ample whitespace on mobile to prevent mis‑taps.  
+Test that selecting a product variant updates the main image and price in real time without a full page reload.  
+Verify a visible reminder appears if a user clicks “Add to Cart” without first selecting a required variant (e.g. size or color).  
+Check that quantity selectors use interactive controls (e.g. +/– buttons) rather than dropdowns, and that quantity changes update price dynamically without reloading.  
+Ensure a link to a size chart (or embedded popup) is placed near size selections, opens in a small modal, and is easily dismissed on mobile.  
+Confirm that all size and weight units are localized (e.g. cm/inches, kg/lbs) based on the user’s locale.  
+For apparel, verify the product description indicates the model’s height and the size they are wearing.  
+Check the CTA copy clearly explains what happens when clicked (e.g. “Proceed to secure checkout”).  
+Ensure clear feedback appears once a product is added to the cart (e.g. mini‑cart count increments, button text changes).  
+Verify the primary CTA button text temporarily changes (e.g. to “✔ Product added” for 2 seconds, then “Go to my cart →”).  
+Confirm the product price is prominently displayed near the main CTA, with special styling if discounted.  
+Ensure localized currency formatting appears (e.g. “€19.99” for European users).  
+Check that any additional costs (shipping surcharges, VAT) are displayed near the CTA.  
+If free shipping is offered, verify that “Free shipping” is highlighted close to the CTA.  
+Ensure full shipping details (destination, cost, estimated time, country flag) are shown near the CTA.  
+Verify current availability status (“In stock”, “Only 2 left”) is displayed near the main CTA.  
+For sale items, confirm the original price is struck through next to the new price and savings percentage.  
+Ensure clear return, refund, and money‑back guarantee information is provided near the primary CTA.  
+Verify popular express payment options (PayPal, Amazon Pay, Google Pay, Apple Pay) are displayed and selectable.  
+For high‑value items, confirm an installment payment option (e.g. Klarna, AfterPay) is available.  
+Check that logos of major press outlets, celebrity endorsements, or “Used by Fortune 500” badges are showcased for social proof.  
+Verify customer reviews display a title, star rating, reviewer photo, reviewer name, “Verified Buyer” tag, occupation, and age.  
+Ensure reviews stand out visually (e.g. highlighted background) and can be filtered by star rating.  
+Confirm photo‑based customer testimonials (real customers using the product) are present.  
+Check the page displays total units sold (e.g. “19,222 shipped this month”) and can update in real time.  
+Verify embedded video testimonials (e.g. mp4 or embedded social posts) are present.  
+Ensure follower counts (Facebook, Twitter) are shown if applicable.  
+Confirm clear quantity discount tiers are offered (e.g. “1× €24.99, 2× €19.99, 3× €17.49” with badges “Recommended” or “Best value”).  
+Verify relevant cross‑sell or up‑sell product suggestions appear below the main CTA.  
+Ensure bundle offers with prominent discounts are displayed.  
+Check urgency triggers (e.g. “Today only”, countdown timers) are placed near the CTA.  
+Verify scarcity messages (e.g. “Only 3 left”) appear near the CTA when stock is low.  
+Ensure “Visitors who viewed this product also viewed…” recommendations are present for related/alternative products.  
+Confirm the product description area uses easy‑to‑read typography (75 chars per line, line‑height 1.5, max 4 lines).  
+Verify product details are structured in bullet points with highlighted benefits.  
+Check long sections (e.g. “General”, “Technical Info”) are collapsible accordions, easy to scan on mobile.  
+Ensure section headings focus on benefits (not just features).  
+Confirm a list or images of all items included in the purchase (e.g. box contents).  
+Verify product‑specific FAQs and site‑wide FAQs are included.  
+Ensure technical specification tables are readable (hover states, alternating row shading).  
+Check that users can compare this product against similar items via a comparison table or selector.  
+Confirm the description includes “How to use” in 3 simple steps.  
+Verify embedded social screenshots (Facebook post, Tweet, Instagram message) appear as additional proof.  
